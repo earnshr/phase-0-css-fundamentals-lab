@@ -3,3 +3,52 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+figcaption {
+  text-align: center;
+  font-size: small;
+}
+
+nav {
+  text-align: center;
+}
+
+a {
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: grey;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#featured-property p {
+  display: block;
+  text-align: center;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: small;
+}
+
+#details div{
+  float: left;
+  text-align: center;
+  background-color: red;
+  width: 25%
+}
+
+div {
+  font-size: small;
+}
